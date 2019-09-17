@@ -1,7 +1,4 @@
 # HackFbMassal
-Jangan salah Gunakan Script ini
-
-# HackFbMassal
 # Jangan salah Gunakan Script ini
 INSTALL DULU PAKETNYA DENGAN MEMASUKKAN PERINTAH DI BAWAH INI:
 
